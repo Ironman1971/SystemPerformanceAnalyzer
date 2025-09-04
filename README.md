@@ -1,6 +1,6 @@
 # SystemPerformanceAnalyzer
 
-A sophisticated Java desktop application for real-time system performance monitoring, in-depth analysis of resource usage, and automated report generation. Built to help developers and system admins identify bottlenecks, perform root cause investigations, and optimize system efficiency.
+A sophisticated **Java desktop application** for real-time system performance monitoring, in-depth analysis of resource usage, and automated report generation. Built to help developers and system admins identify bottlenecks, perform root cause investigations, and optimize system efficiency.
 
 ---
 ## Features
@@ -61,3 +61,4 @@ Fork the repo, make improvements (e.g., add network monitoring), and submit a pu
 MIT License
 
 ---
+
